@@ -526,8 +526,11 @@ footer {
 /* image container styling ends */
 
 .food__list__view__more {
+    margin: auto;
+    padding: auto;
+    text-align: center;
     margin: 2rem 0;
-    transition: 0.3s;
+    transition: 0.5s;
     color: #fff;
     padding: 1rem;
     border-radius: 6px;
