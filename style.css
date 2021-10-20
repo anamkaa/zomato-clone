@@ -442,6 +442,7 @@ display: flex;
   }
   
   .email__subcribe__input__field {
+    padding: 0.2rem;
     display: flex;
     align-items: center;
   }
